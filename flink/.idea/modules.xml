@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ml-examples/chapter06.iml" filepath="$PROJECT_DIR$/ml-examples/chapter06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/flink.iml" filepath="$PROJECT_DIR$/.idea/flink.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-examples/flink-examples.iml" filepath="$PROJECT_DIR$/flink-examples/flink-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-examples/flink-examples-batch/flink-examples-batch.iml" filepath="$PROJECT_DIR$/flink-examples/flink-examples-batch/flink-examples-batch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-examples/flink-examples-streaming/flink-examples-streaming.iml" filepath="$PROJECT_DIR$/flink-examples/flink-examples-streaming/flink-examples-streaming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-examples/flink-examples-table/flink-examples-table.iml" filepath="$PROJECT_DIR$/flink-examples/flink-examples-table/flink-examples-table.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-ml/flink-ml.iml" filepath="$PROJECT_DIR$/flink-ml/flink-ml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-quickstart-scala/flink-quickstart-scala.iml" filepath="$PROJECT_DIR$/flink-quickstart-scala/flink-quickstart-scala.iml" />
+    </modules>
+  </component>
+</project>

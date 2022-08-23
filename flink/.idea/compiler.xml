@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <directory url="file://$PROJECT_DIR$/flink-quickstart-scala/src/main/resources/archetype-resources" includeSubdirectories="true" />
+    </excludeFromCompile>
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="flink-ml" />
+        <module name="flink-quickstart-scala" />
+        <module name="flink-examples-streaming" />
+        <module name="chapter06" />
+        <module name="flink-examples-table" />
+        <module name="flink-examples-batch" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="chapter06" target="1.7" />
+      <module name="flink-examples" target="1.5" />
+      <module name="flink-examples-batch" target="1.5" />
+      <module name="flink-examples-streaming" target="11" />
+      <module name="flink-examples-table" target="11" />
+      <module name="flink-ml" target="1.7" />
+      <module name="flink-quickstart-scala" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
